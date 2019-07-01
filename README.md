@@ -5,3 +5,4 @@
 3. Ramulator
 4. DRAMSim2
 5. DRAMPower
+## Paper written using - LaTeX
